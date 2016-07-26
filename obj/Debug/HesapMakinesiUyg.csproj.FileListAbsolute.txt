@@ -1,0 +1,18 @@
+c:\users\hulus\documents\visual studio 2013\Projects\HesapMakinesiUyg\HesapMakinesiUyg\bin\Debug\HesapMakinesiUyg.exe.config
+c:\users\hulus\documents\visual studio 2013\Projects\HesapMakinesiUyg\HesapMakinesiUyg\bin\Debug\HesapMakinesiUyg.exe
+c:\users\hulus\documents\visual studio 2013\Projects\HesapMakinesiUyg\HesapMakinesiUyg\bin\Debug\HesapMakinesiUyg.pdb
+c:\users\hulus\documents\visual studio 2013\Projects\HesapMakinesiUyg\HesapMakinesiUyg\obj\Debug\HesapMakinesiUyg.csprojResolveAssemblyReference.cache
+c:\users\hulus\documents\visual studio 2013\Projects\HesapMakinesiUyg\HesapMakinesiUyg\obj\Debug\HesapMakinesiUyg.Form1.resources
+c:\users\hulus\documents\visual studio 2013\Projects\HesapMakinesiUyg\HesapMakinesiUyg\obj\Debug\HesapMakinesiUyg.Properties.Resources.resources
+c:\users\hulus\documents\visual studio 2013\Projects\HesapMakinesiUyg\HesapMakinesiUyg\obj\Debug\HesapMakinesiUyg.csproj.GenerateResource.Cache
+c:\users\hulus\documents\visual studio 2013\Projects\HesapMakinesiUyg\HesapMakinesiUyg\obj\Debug\HesapMakinesiUyg.exe
+c:\users\hulus\documents\visual studio 2013\Projects\HesapMakinesiUyg\HesapMakinesiUyg\obj\Debug\HesapMakinesiUyg.pdb
+C:\Users\hulus\Desktop\HesapMakinesiUyg\HesapMakinesiUyg\bin\Debug\HesapMakinesiUyg.exe.config
+C:\Users\hulus\Desktop\HesapMakinesiUyg\HesapMakinesiUyg\obj\Debug\HesapMakinesiUyg.exe
+C:\Users\hulus\Desktop\HesapMakinesiUyg\HesapMakinesiUyg\obj\Debug\HesapMakinesiUyg.pdb
+C:\Users\hulus\Desktop\HesapMakinesiUyg\HesapMakinesiUyg\bin\Debug\HesapMakinesiUyg.exe
+C:\Users\hulus\Desktop\HesapMakinesiUyg\HesapMakinesiUyg\bin\Debug\HesapMakinesiUyg.pdb
+C:\Users\hulus\Desktop\HesapMakinesiUyg\HesapMakinesiUyg\obj\Debug\HesapMakinesiUyg.csprojResolveAssemblyReference.cache
+C:\Users\hulus\Desktop\HesapMakinesiUyg\HesapMakinesiUyg\obj\Debug\HesapMakinesiUyg.Form1.resources
+C:\Users\hulus\Desktop\HesapMakinesiUyg\HesapMakinesiUyg\obj\Debug\HesapMakinesiUyg.Properties.Resources.resources
+C:\Users\hulus\Desktop\HesapMakinesiUyg\HesapMakinesiUyg\obj\Debug\HesapMakinesiUyg.csproj.GenerateResource.Cache
